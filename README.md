@@ -8,4 +8,6 @@
  
  ![工程结构图](./66.png)
 
+
+#[APK下载](https://raw.githubusercontent.com/l123456789jy/ijkplayer/master/ijkplayer-example-all32-debug.apk)
   
